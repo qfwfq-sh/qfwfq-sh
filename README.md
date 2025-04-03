@@ -15,6 +15,16 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 
 ---
 
-<a href="https://github.com/MartinHeinz/MartinHeinz" align="center">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfwfq-sh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+---
+
+<details align="center"> 
+
+<p align="center">
+    <a href="https://github.com/qfwfq-sh/Dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=Dotfiles&theme=catppuccin_mocha&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+</details>
+
+    
