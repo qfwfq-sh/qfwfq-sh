@@ -7,8 +7,11 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 
 <h3>Outras redes:</h3>
 <p>
-<a href="https://twitter.com/qfwfq_sh" target="blank"><img align="center" src="https://pbs.twimg.com/media/F11WHoiWIAAbz-6.jpg" alt="qfwfq_sh" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/delgadoyuri" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" alt="delgadoyuri" height="40" width="40" /></a>
-<a href="https://instagram.com/qfwfq.sh" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/15707/15707869.png?semt=ais_hybrid" alt="qfwfq.sh" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/qfwfq-sh/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDFbGpqgz6rgTdZc6IZ1lukb-al5c04QyczeAVeiEqaBBTqr7rAUwj64LwX0rqOj7R5A&usqp=CAU" alt="qfwfq-sh/" height="40" width="40" /></a>
+<a href="https://twitter.com/qfwfq_sh" target="blank"><img align="center" src="https://pbs.twimg.com/media/F11WHoiWIAAbz-6.jpg" alt="qfwfq_sh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/delgadoyuri" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" alt="delgadoyuri" height="30" width="30" /></a>
+<a href="https://instagram.com/qfwfq.sh" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/15707/15707869.png?semt=ais_hybrid" alt="qfwfq.sh" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/qfwfq-sh/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDFbGpqgz6rgTdZc6IZ1lukb-al5c04QyczeAVeiEqaBBTqr7rAUwj64LwX0rqOj7R5A&usqp=CAU" alt="qfwfq-sh/" height="30" width="30" /></a>
 </p>
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfwfq-sh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
