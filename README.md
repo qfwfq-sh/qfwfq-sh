@@ -13,5 +13,7 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 <a href="https://www.leetcode.com/qfwfq-sh/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDFbGpqgz6rgTdZc6IZ1lukb-al5c04QyczeAVeiEqaBBTqr7rAUwj64LwX0rqOj7R5A&usqp=CAU" alt="qfwfq-sh/" height="30" width="30" /></a>
 </p>
 
+---
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfwfq-sh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
