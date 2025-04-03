@@ -24,6 +24,7 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 <details title="Repositórios:" align="center"> 
 
 <p align="center">
+    <summary><h3>Repositórios</h3></summary>
     <a href="https://github.com/qfwfq-sh/Dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=Dotfiles&theme=catppuccin_mocha&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </details>
 
