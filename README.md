@@ -17,8 +17,8 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 
 <p align="center">
     <summary><h3>Repositórios</h3></summary>
-    <a href="https://github.com/qfwfq-sh/Dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=Dotfiles&theme=catppuccin_mocha&bg_color=11111b&title_color=b4befe&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/qfwfq-sh/netlify-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=netlify-site&theme=catppuccin_mocha&bg_color=11111b&title_color=b4befe&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/qfwfq-sh/Dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=Dotfiles&theme=catppuccin_mocha&bg_color=11111b&title_color=b4befe&hide_border=true&icon_color=F8D866&show_icons=true" alt="Dotfiles"></a>
+    <a href="https://github.com/qfwfq-sh/netlify-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qfwfq-sh&repo=netlify-site&theme=catppuccin_mocha&bg_color=11111b&title_color=b4befe&hide_border=true&icon_color=F8D866&show_icons=true" alt="netfily-site"></a>
     
 </details>
 
