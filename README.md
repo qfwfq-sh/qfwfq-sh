@@ -17,3 +17,4 @@ Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfwfq-sh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
