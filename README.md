@@ -1,5 +1,5 @@
 # Olá, Meu nome é Yuri
-Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou estudando o básico de programação e cibersegurança
+Comecei meus estudos na Universidade Federal do Pará em 2025. Atualmente estou estudando programação e cibersegurança
 
 #### Linguagens e ferramentas:
 
